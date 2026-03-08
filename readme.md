@@ -17,3 +17,6 @@ git push -u origin main = para mandar os commits e arquivos da minha maquina par
 git checkout main = para volta para branch main
 
 git merge NOME DA BRANCH = para juntar as branch no main
+
+git checkout -b "" = parar criar uma nova Branch, tudo oque eu alterar na nova branch vai ser so alterada nela e nao na (main)
+

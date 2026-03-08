@@ -1,1 +1,1 @@
-Adiconando outro arquivo
+Adicionando outro arquivo
