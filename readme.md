@@ -14,4 +14,5 @@ git remote add origin LINK DO REPOSITORIO = para criar a conexao do repositorio 
 
 git push -u origin main = para mandar os commits e arquivos da minha maquina para o repositorio do github
 
-Alterando e Adicionando Arquivos
+$ git checkout -b "" = parar criar uma nova Branch, tudo oque eu alterar na nova branch vai ser so alterada nela e nao na (main)
+
